@@ -13,3 +13,13 @@ Original repo is too large for Bower, so I got this:
 ```
 wget http://threejs.org/build/three.min.js
 ```
+
+### Usage
+
+```
+bower install --save three.js
+```
+
+### License
+
+MIT
