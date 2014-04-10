@@ -2,7 +2,7 @@
 Three.js on Bower
 ------
 
-Current version: [r64](https://github.com/mrdoob/three.js/releases/tag/r64)
+Current version: [r66](https://github.com/mrdoob/three.js/releases/tag/r66)
 
 Visit official repo if you want to know more:
 
