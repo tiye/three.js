@@ -11,8 +11,8 @@ npm i --save three
 Official repo: https://github.com/mrdoob/three.js#threejs
 Official repo is too large on Bower, so I picked files out from that repo.
 
-Current version: [r80](https://github.com/mrdoob/three.js/releases/tag/r80).
-In this repo the version in converted to `0.80.0` in semantic version for Bower to recognize.
+Current version: [r81](https://github.com/mrdoob/three.js/releases/tag/r81).
+In this repo the version in converted to `0.81.0` in semantic version for Bower to recognize.
 
 ### Usage
 
