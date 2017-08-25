@@ -2,17 +2,12 @@
 Three.js on Bower
 ------
 
-Package [three](https://www.npmjs.com/package/three) on npm is suggested since Bower is lack of maintenance.
-
-```bash
-npm i --save three
-```
+Bower package for [three](https://www.npmjs.com/package/three)
 
 Official repo: https://github.com/mrdoob/three.js#threejs
-Official repo is too large on Bower, so I picked files out from that repo.
+As the official repo is too large on Bower this offers a streamlined version
 
-Current version: [r86](https://github.com/mrdoob/three.js/releases/tag/r86).
-In this repo the version in converted to `0.85.0` in semantic version for Bower to recognize.
+Current version: [r87](https://github.com/mrdoob/three.js/releases/tag/r87): `0.87.0`
 
 ### Usage
 
