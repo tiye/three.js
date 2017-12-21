@@ -7,7 +7,7 @@ Bower package for [three](https://www.npmjs.com/package/three)
 Official repo: https://github.com/mrdoob/three.js#threejs
 As the official repo is too large on Bower this offers a streamlined version
 
-Current version: [r87](https://github.com/mrdoob/three.js/releases/tag/r87): `0.87.0`
+Current version: [r89](https://github.com/mrdoob/three.js/releases/tag/r89): `0.89.0`
 
 ### Usage
 
